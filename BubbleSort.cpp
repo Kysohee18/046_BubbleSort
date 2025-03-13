@@ -27,7 +27,8 @@ void input() {
             cin >> arr[i];
         } 
     }
-    void bubbleSortArray(){
+void bubbleSortArray()
+ {
        int pass = 1; //step 1
 
         do
@@ -60,14 +61,28 @@ void input() {
             cout << endl;
             cout << endl;
 
+            cout << "jumlah pss = " << n -1 << endl; //menampilkan jumlah dari dari pass
+            cout << endl;
+            cout <<
+
 
 
         }
-        
+        int main(){
+            
+            input();
+
+            bubbleSortArray();
+            display();
+            
+            system("pause");
+            return 0;
+
+        }
 
 
 
-    }
+    
         
 
 
@@ -79,7 +94,7 @@ void input() {
 
 
     
-    }
+}
 
     
 
