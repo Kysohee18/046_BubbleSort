@@ -27,6 +27,33 @@ void input() {
             cin >> arr[i];
         } 
     }
+    void bubbleSortArray()
+    { int pass = 1; //step 1
+
+        do
+        { 
+            for
+            
+        } while (condition);
+        
+
+
+
+    }
+        
+
+
+        
+
+
+
+        
+
+
+    
+    }
+
+    }
 
 
 
